@@ -1,0 +1,9 @@
+{
+	"appId": "com.fogreact.foggapp",
+	"appName": "foggapp",
+	"webDir": "dist",
+	"server": {
+		"cleartext": true,
+		"allowNavigation": ["*"]
+	}
+}
